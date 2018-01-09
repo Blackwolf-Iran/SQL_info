@@ -2,9 +2,9 @@
 Information Gathering with SQL injection<br>
 
  ..::==  This Tool Just For N00Bs like YoU =)  ==::.. 
-
+<p>
  SQLinfo ver 0.1 
- - This Tool is for information gathering from SQL server targets(MySQL)
+ This Tool is for information gathering from SQL server targets(MySQL)
 
 	===========
 	----=# Info Gathering with SQLi     
@@ -13,7 +13,7 @@ Information Gathering with SQL injection<br>
 	----=# Email  : blackwolf@post.com
 	----=# Github : http://github.com/Blackwolf-Iran 
 	===========
-
+</p>
 
   Example Link : http://site.com/news.php?id=-1 union select 1,2,3,4-- -
 
